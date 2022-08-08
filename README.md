@@ -81,6 +81,8 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=d3athgr1p&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  -->
 
+[![D3athGr1p's github activity graph](https://activity-graph.herokuapp.com/graph?username=d3athgr1p&bg_color=000000&color=ff00ee&line=00bfff&point=eae5ff&area=true&hide_border=true)](https://github.com/D3athGr1p/github-readme-activity-graph)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 
