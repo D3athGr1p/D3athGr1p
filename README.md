@@ -92,9 +92,9 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 </br>
 
 <div align="start">
-<a href="https://github.com/D3athGr1p/D3athGr1p/blob/main/devcard.svg"><img src="./images/1.gif" style="margin-bottom:3.5%" width="270" alt="D3athGr1p's Dev Card"/></a>
+<a href="https://github.com/D3athGr1p/D3athGr1p/blob/main/devcard.svg"><img src="./images/1.gif" style="margin-bottom:10%" width="270" alt="D3athGr1p's Dev Card"/></a>
 <a href="https://github.com/D3athGr1p/D3athGr1p/blob/main/devcard.svg"><img src="./devcard.svg" width="270" alt="D3athGr1p's Dev Card"/></a>
-<a href="https://github.com/D3athGr1p/D3athGr1p/blob/main/devcard.svg"><img src="./images/1.gif" style="margin-bottom:3.5%" width="270" alt="D3athGr1p's Dev Card"/></a>
+<a href="https://github.com/D3athGr1p/D3athGr1p/blob/main/devcard.svg"><img src="./images/1.gif" style="margin-bottom:10%" width="270" alt="D3athGr1p's Dev Card"/></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
