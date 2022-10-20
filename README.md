@@ -4,23 +4,24 @@
   <img align="center" src="https://github.com/D3athGr1p/D3athGr1p/blob/main/images/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=D3athGr1p+%3D%3D+Dev+%3F+True+%3A+True;Blockchain+Developer)](https://git.io/typing-svg)
-
 
 <p align="center">
   <img align="center" src="./images/folkless.png?raw=true"  height="120" width="891" />
 </p>
 
+<br />
+<br />
 
-<br />
-<br />
+<div style="float:right"><img src="./devcard.svg" alt="devcard" width="500" height="400"/></a></div>
 
 Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger developer from India.
 
 - 🔭 I’m currently working on Private repo of Staking and [Multi Send ERC20 AirDrop](https://github.com/D3athGr1p/Multi-Send-ERC20-AirDrop).<!---[Dapp Chain](https://github.com/yashtrivedi2000/Dapp-Chain)-->
 - 🌱 I’m currently learning Hyperledger Fabric.
 <!-- - 👯 I’m looking to collaborate on [Dapp Chain](https://github.com/kishansudani) -->
+
+<div style="float:right"><img src="./images/1.gif" alt="gif" width="300" height="300"/></a></div>
 
 **Languages and Tools:**
 
@@ -35,14 +36,15 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 
 **Technologies**
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="javascript" width="40" height="40"/></a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="javascript" width="40" height="40"/></a>
 <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_metamask.png" alt="metamask" width="40" height="40"/></a>
 <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></a>
 <img src="https://camo.githubusercontent.com/c2568ca449a0dd817656010512e345341036abb8f462ad74c5d7aea675094003/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f72656163742d313137353130392e706e67" alt="react" width="40" height="40"/></a>
-  
+
 **MAIN DEFI**
 
 <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="40"><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="40"><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="40"><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="40"><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="40">
+
 <!---
   if you have forked this to use on your profile,
   Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`
@@ -55,6 +57,7 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 </a> -->
 
 <a><h2>Stats</h2></a>
+
 <div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=d3athgr1p&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
@@ -72,7 +75,6 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=d3athgr1p&repo=Solidity-Normal-Logic&theme=material-palenight" />
 </a>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
@@ -93,7 +95,6 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 
-
 <br />
 <br />
 
@@ -109,7 +110,7 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
   </a>
   <a href="https://www.linkedin.com/in/kishan-sudani/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
 
 <code><img height="100" width="100" src="https://metahero.io/animation.svg"><code>
 
