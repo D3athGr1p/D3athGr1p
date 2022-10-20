@@ -13,15 +13,11 @@
 <br />
 <br />
 
-<div style="float:right"><img src="./devcard.svg" alt="devcard" width="500" height="400"/></a></div>
-
 Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger developer from India.
 
 - 🔭 I’m currently working on Private repo of Staking and [Multi Send ERC20 AirDrop](https://github.com/D3athGr1p/Multi-Send-ERC20-AirDrop).<!---[Dapp Chain](https://github.com/yashtrivedi2000/Dapp-Chain)-->
 - 🌱 I’m currently learning Hyperledger Fabric.
 <!-- - 👯 I’m looking to collaborate on [Dapp Chain](https://github.com/kishansudani) -->
-
-<div style="float:right"><img src="./images/1.gif" alt="gif" width="300" height="300"/></a></div>
 
 **Languages and Tools:**
 
@@ -92,6 +88,15 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 
 ![](https://count.getloli.com/get/@d3athgr1p.github.readme)
 </br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+
+<div align="center">
+<a href="https://github.com/D3athGr1p/D3athGr1p/blob/main/devcard.svg"><img src="./images/1.gif" style="margin-bottom:2.5%" width="270" alt="D3athGr1p's Dev Card"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/D3athGr1p/D3athGr1p/blob/main/devcard.svg"><img src="./devcard.svg" width="270" alt="D3athGr1p's Dev Card"/></a>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 
