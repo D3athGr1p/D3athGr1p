@@ -14,11 +14,11 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,linux,py,js,cpp,go,rust,mongodb,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,linux,py,js,cpp,go,rust,mongodb,nodejs,react)](https://skillicons.dev)
 
 **Technologies & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,github,ipfs,vscode,react,remix)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></a> <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_metamask.png" alt="metamask" width="40" height="40"/></a>
+[![My Skills](https://skillicons.dev/icons?i=docker,github,ipfs,vscode,remix)](https://skillicons.dev)<img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></a> <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_metamask.png" alt="metamask" width="40" height="40"/></a>
 
 **MAIN DEFI**
 
