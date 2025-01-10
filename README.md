@@ -46,9 +46,6 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=d3athgr1p&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=d3athgr1p&theme=shades-of-purple&hide_border=true"/>
-    </a>
   </div>
 </br>
 <a href="#">
@@ -72,18 +69,6 @@ Hi, I'm Kishan Sudani, a passionate self-taught Blockchain and Hyperledger devel
 ![](https://count.getloli.com/get/@d3athgr1p.github.readme)
 </br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
-
-<div align="start">
-<a href="https://github.com/D3athGr1p/D3athGr1p/blob/main/devcard.svg"><img src="./images/1.gif" style="margin-bottom:10%" width="270" alt="D3athGr1p's Dev Card"/></a>
-<a href="https://github.com/D3athGr1p/D3athGr1p/blob/main/devcard.svg"><img src="./devcard.svg" width="270" alt="D3athGr1p's Dev Card"/></a>
-<a href="https://github.com/D3athGr1p/D3athGr1p/blob/main/devcard.svg"><img src="./images/1.gif" style="margin-bottom:10%" width="270" alt="D3athGr1p's Dev Card"/></a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
-
-<br />
 <br />
 
 <div> 
